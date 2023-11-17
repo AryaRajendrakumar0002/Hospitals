@@ -1,0 +1,27 @@
+[
+    {
+      "hospitalName": "Ashirvad Hospital",
+      "patientCount": 300,
+      "hospitalLocation": "Jharkand"
+    },
+    {
+      "hospitalName": "Srishti Hospital",
+      "patientCount": 500,
+      "hospitalLocation": "aghfdcity"
+    },
+    {
+      "hospitalName": "Ahalia Hospital",
+      "patientCount": 450,
+      "hospitalLocation": "Palakkad"
+    },
+    {
+      "hospitalName": "Al Shifa",
+      "patientCount": 780,
+      "hospitalLocation": "Perunthal"
+    },
+    {
+      "hospitalName": "Thangam",
+      "patientCount": 614,
+      "hospitalLocation": "Palakkad"
+    }
+]
